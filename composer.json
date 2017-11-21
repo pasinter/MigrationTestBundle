@@ -1,0 +1,21 @@
+{
+  "name": "pasinter/test-bundle",
+  "type": "symfony-bundle",
+  "description": "Test Bundle",
+  "license": "Apache-2.0",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "pasinter"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Pasinter\\Bundle\\Test\\": ""
+    }
+  },
+  "require": {
+  },
+  "extra": {
+  }
+}
